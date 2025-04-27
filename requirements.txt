@@ -1,0 +1,4 @@
+langchain
+ipykernel
+langchain-community
+langchain_groq
